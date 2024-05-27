@@ -40,8 +40,14 @@ You can change boot image by using this app for MiyooMini+
 Boot image for this theme is placed in `/BootImage` Folder. You will know what to do after read the README in upper repository.
 
 ## Other Preview
+
+
 ![GameSwitcher_000](https://github.com/KyleBing/onion-theme-wireframe/assets/12215982/0c69e6be-e5b2-4cff-99d2-54fc32b845f6)
 ![Tweaks_005](https://github.com/KyleBing/onion-theme-wireframe/assets/12215982/0a90d799-ba02-4a13-9627-18f60c77c147)
+
+Design file preview
+
+<img width="2032" alt="wireframe design file" src="https://github.com/KyleBing/onion-theme-wireframe/assets/12215982/b52fe139-733d-4ab7-9918-bbb2bceb31e4">
 
 
 
