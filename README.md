@@ -13,10 +13,10 @@ A theme for Miyoo Mini Plus device.
 
 ```bash
 .
-├── BootImage      # boot image for MiyooMini+ app Miyoo-Mini-easy-logotweak to use, can change MiyooMini+'s boot image
-├── DesignFile     # sketch file, theme template file
-├── Preview        # some preview images
-└── Wireframe      # original theme folder
+├── BootImage                 # boot image for MiyooMini+ app Miyoo-Mini-easy-logotweak to use, can change MiyooMini+'s boot image
+├── DesignFile                # sketch file, theme template file
+├── Preview                   # some preview images
+└── Wireframe by KyleBing     # original theme folder
 
 ```
 
